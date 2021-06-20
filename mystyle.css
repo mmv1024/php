@@ -1,0 +1,54 @@
+body {
+	background-color:lightblue;
+}
+
+.button { 
+	cursor: pointer;
+}
+
+.date {
+	color:grey;
+	margin-left:2px;
+	font-size:12px;
+}
+
+.name {
+	color:grey;margin-left:2px;
+	font-size:12px;
+}
+
+.text { 
+	width:90%;
+	position: relative;
+}
+
+.table { }
+
+.center {
+	text-align: center;
+	position:relative;
+}
+
+.left {
+	text-align: left; 
+	margin-left:6%; 
+	word-wrap: break-word; 
+	padding: 10px;
+}
+
+.delete {
+	font-size:12px;
+}
+
+.form-textarea {
+	width: 380px; 
+	height: 133px;
+}
+
+.lc {
+	margin-right:6%;
+}
+
+.error {
+	color: red;
+}
